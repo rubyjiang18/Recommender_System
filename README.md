@@ -9,3 +9,5 @@ The main chapters includes:
 4. Restricted Boltzmann Machine for CF (optional)
 5. Big Data MF with Sparks
 6. Bayesian Ranking
+
+All the images in the notebook notes are screen shots from the Udemy class linked above.
