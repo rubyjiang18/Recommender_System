@@ -8,3 +8,4 @@ The main chapters includes:
 3. Matrix Factorization and Deep Learning
 4. Restricted Boltzmann Machine for CF (optional)
 5. Big Data MF with Sparks
+6. Bayesian Ranking
